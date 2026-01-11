@@ -1,9 +1,9 @@
-# D004_A_tour_rec vue+Django 双推荐算法旅游大数据可视化系统Echarts  mysql数据库 带爬虫
 # D004A vue+Django 双推荐算法旅游大数据可视化系统Echarts  mysql数据库 带爬虫
-完整项目收费，可联系微信: maimaidashuju 注明从git来的，谢谢！
-也可以关注我的B站： 麦麦大数据 https://space.bilibili.com/1583208775
-📚编号：D004  A 
 
+完整项目收费，可联系微信: mmdsj186011 注明从git来的，谢谢！
+也可以关注我的B站： 麦麦大数据 https://space.bilibili.com/1583208775
+
+📚编号：D004  A 
 
 ## 视频介绍
 
